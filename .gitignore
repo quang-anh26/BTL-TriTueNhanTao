@@ -1,0 +1,9 @@
+runs/
+*.pt
+data/
+detection/
+node_modules/
+5_frontend/node_modules/
+__pycache__/
+*.pyc
+.vscode/
