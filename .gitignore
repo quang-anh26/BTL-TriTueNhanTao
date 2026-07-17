@@ -7,3 +7,9 @@ node_modules/
 __pycache__/
 *.pyc
 .vscode/
+!3_recognition/runs/
+!3_recognition/runs/recognition_one_row_v2/
+!3_recognition/runs/recognition_one_row_v2/best_crnn.pt
+!3_recognition/runs/recognition_two_row_v2/
+!3_recognition/runs/recognition_two_row_v2/best_crnn.pt
+!4_backend/best.pt
