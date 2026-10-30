@@ -1,15 +1,20 @@
+# Model & training outputs
 runs/
 *.pt
+
+# Data
 data/
-detection/
+
+# Node
 node_modules/
 5_frontend/node_modules/
+
+# Python
 __pycache__/
 *.pyc
+
+# Editor
 .vscode/
-!3_recognition/runs/
-!3_recognition/runs/recognition_one_row_v2/
-!3_recognition/runs/recognition_one_row_v2/best_crnn.pt
-!3_recognition/runs/recognition_two_row_v2/
-!3_recognition/runs/recognition_two_row_v2/best_crnn.pt
-!4_backend/best.pt
+
+detected/
+detection/
